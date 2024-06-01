@@ -1,8 +1,22 @@
-# React + Vite
+# ToDoList Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple ToDoList application built using React and Material-UI.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add tasks to the list
+- Toggle task completion
+- Remove tasks from the list
+- Filter tasks by All, Completed, and Active
+
+## Demo
+
+[Link to live demo](https://tasksprint.netlify.app/)
+
+## Screenshots
+![image](https://github.com/Sanket2004/To-do/assets/99745967/8968d458-7f69-406d-84dd-8125533c3fcf)
+
+## Technologies Used
+
+- React
+- Material-UI
